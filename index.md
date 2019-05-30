@@ -17,6 +17,9 @@ following:
   - [*The Renegade Coder* membership page][2]
   - [The Sample Programs open-source project][3]
   
+For an example of what you can expect to receive, check out the
+[newsletter archive][4] which contains the last 20 newsletters.
+  
 Below, you will find the signup form. Upon completion, you will be
 redirected to a Mailchimp page which will give you further
 instructions on how to confirm your subscription. 
@@ -26,3 +29,4 @@ instructions on how to confirm your subscription.
 [1]: https://therenegadecoder.com/members/account/
 [2]: https://therenegadecoder.com/members/
 [3]: https://github.com/TheRenegadeCoder/sample-programs
+[4]: https://us15.campaign-archive.com/home/?u=6fde3af5860ad15cc7b814423&id=f54f913dfb
