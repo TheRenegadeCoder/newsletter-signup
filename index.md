@@ -5,6 +5,24 @@ layout: default
 Welcome to The Renegade Coder Newsletter signup form. By entering your
 email, you agree to receive a weekly newsletter which can be cancelled
 at any time using the unsubscribe link contained at the bottom of each 
-email.
+email. 
+
+Each newsletter is delivered on Friday at noon EST and contains the
+following:
+
+- A list of all published posts from the previous week
+- A brief message expressing thanks for your continued support
+- Links to:
+  - [Your *The Renegade Coder* account page][1] (if you have one)
+  - [*The Renegade Coder* membership page][2]
+  - [The Sample Programs open-source project][3]
+  
+Below, you will find the signup form. Upon completion, you will be
+redirected to a Mailchimp page which will give you further
+instructions on how to confirm your subscription. 
 
 {% include mailchimp_form.html %}
+
+[1]: https://therenegadecoder.com/members/account/
+[2]: https://therenegadecoder.com/members/
+[3]: https://github.com/TheRenegadeCoder/sample-programs
