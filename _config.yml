@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 
 title: The Renegade Coder Newsletter
 description: A signup form for The Renegade Coder Newsletter.
+
+google_analytics: UA-97956707-4
