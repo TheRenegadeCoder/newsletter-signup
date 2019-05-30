@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.button {
+  color: #c90229;
+}
