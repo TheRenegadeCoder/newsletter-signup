@@ -13,7 +13,6 @@ following:
 - A list of all published posts from the previous week
 - A brief message expressing thanks for your continued support
 - Links to:
-  - [Your *The Renegade Coder* account page][1] (if you have one)
   - [*The Renegade Coder* membership page][2]
   - [The Sample Programs open-source project][3]
   
