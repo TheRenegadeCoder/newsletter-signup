@@ -25,7 +25,6 @@ instructions on how to confirm your subscription.
 
 {% include mailchimp_form.html %}
 
-[1]: https://therenegadecoder.com/members/account/
-[2]: https://therenegadecoder.com/members/
+[2]: https://www.patreon.com/TheRenegadeCoder
 [3]: https://github.com/TheRenegadeCoder/sample-programs
 [4]: https://us15.campaign-archive.com/home/?u=6fde3af5860ad15cc7b814423&id=f54f913dfb
