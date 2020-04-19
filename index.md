@@ -3,17 +3,22 @@ layout: default
 ---
 
 Welcome to The Renegade Coder Newsletter signup form. By entering your
-email, you agree to receive a menthly newsletter which can be cancelled
+email, you agree to receive a monthly newsletter which can be cancelled
 at any time using the unsubscribe link contained at the bottom of each 
 email. 
 
-Each newsletter is delivered on the 1st of the month at noon EST and contains the
-following:
+As a new subscriber, you'll receive a copy of my Python 3 Beginner Cheat
+Sheet in your welcome email. The link in the email will direct you to
+a page where you can download the PDF.
+
+Once you subscribe, you will receive a newsletter on the 1st of the month 
+at noon EST which contains the following:
 
 - A list of all published posts from the previous week
 - A brief message expressing thanks for your continued support
 - Links to:
   - [*The Renegade Coder* membership page][2]
+  - [Various YouTube Videos][5]
   - [The Sample Programs open-source project][3]
   
 For an example of what you can expect to receive, check out the
@@ -28,3 +33,4 @@ instructions on how to confirm your subscription.
 [2]: https://www.patreon.com/TheRenegadeCoder
 [3]: https://github.com/TheRenegadeCoder/sample-programs
 [4]: https://us15.campaign-archive.com/home/?u=6fde3af5860ad15cc7b814423&id=f54f913dfb
+[5]: https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw
