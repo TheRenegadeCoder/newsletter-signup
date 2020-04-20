@@ -7,8 +7,8 @@ email, you agree to receive a monthly newsletter which can be cancelled
 at any time using the unsubscribe link contained at the bottom of each 
 email. 
 
-As a new subscriber, you'll receive a copy of my Python 3 Beginner Cheat
-Sheet in your welcome email. The link in the email will direct you to
+As a new subscriber, **you'll receive a copy of my Python 3 Beginner Cheat
+Sheet** in your welcome email. The link in the email will direct you to
 a page where you can download the PDF.
 
 Once you subscribe, you will receive a newsletter on the 1st of the month 
